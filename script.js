@@ -1,0 +1,2 @@
+$("input").clearz();
+$("textarea").clearz();
